@@ -1,0 +1,4 @@
+health_check_status: 200
+model_info_status: 200
+prediction_status: 200
+invalid_input_status: 400
