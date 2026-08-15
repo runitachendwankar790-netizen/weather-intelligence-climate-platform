@@ -1,6 +1,6 @@
 # Weather Intelligence and Climate Decision Support Platform
 
-## MacroEdtech GenAI Research 2026 - Phase 02
+## MacroEdtech GenAI Research 2026 - Phase 02 part 1
 
 AI-based Weather Prediction System for Indian Southwest Monsoon rainfall analysis and prediction.
 
